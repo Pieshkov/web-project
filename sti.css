@@ -2,4 +2,8 @@ h1 {
     margin: auto;
     font-size: larger;
     font-family: sans-serif;
+    text-align: center;
+}
+.top {
+    width="800"
 }
